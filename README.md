@@ -96,4 +96,5 @@ public class ArrayList <E> implements List <E>{
     }
     ~~~
     En la cual como lo indico las instrucciones se implemento el metodo permutaciones el cual se repitio el metodo swap tantas veces como fuera posible hasta que se llegara a la cantidad de elementos en el heap.
+   Para el segundo problema se utilizo una CircularLinkedlist que almacenaba un historial de la creación de los animales.
     
